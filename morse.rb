@@ -49,4 +49,4 @@ def decode_word(sentence)
   end
 end
 
-decode_word('-- -.--   -. .- -- .')
+decode_word('      .-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')

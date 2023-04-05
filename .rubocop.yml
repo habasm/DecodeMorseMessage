@@ -1,4 +1,4 @@
-`AllCops:
+AllCops:
   NewCops: enable
   Exclude:
     - "Guardfile"
@@ -50,3 +50,4 @@ Style/HashTransformKeys:
   Enabled: false
 Style/HashTransformValues:
   Enabled: false
+  
