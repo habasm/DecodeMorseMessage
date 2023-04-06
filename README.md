@@ -1,3 +1,4 @@
+
 <a name="readme-top"></a>
 
 <!--
@@ -22,6 +23,7 @@ REQUIRED SECTIONS:
 After you're finished please remove all the comments and instructions!
 -->
 
+
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -43,9 +45,12 @@ After you're finished please remove all the comments and instructions!
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
 
+
+
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
+
 
 # 📖 Decode Morse Message <a name="about-project"></a>
 
@@ -67,9 +72,11 @@ After you're finished please remove all the comments and instructions!
   </ul>
 </details>
 
+
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
+
 
 - Run a program using the command line.
 - Use Ruby syntax for basic programming operations.
@@ -124,6 +131,7 @@ To run the project, execute the following command:
 
 > no deployment for this project
 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
@@ -144,6 +152,7 @@ To run the project, execute the following command:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
@@ -156,9 +165,11 @@ To run the project, execute the following command:
 
 ## 🤝 Contributing <a name="contributing"></a>
 
+
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](https://github.com/habasm/DecodeMorseMessage/issues).
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -174,7 +185,12 @@ Give a ⭐️ if you like this project!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank microverse community for the support and guidance.
+
+Authors would like to thank:
+- [Microverse](https://www.microverse.org/)
+- Code Reviewers
+- Coding Partners
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -182,7 +198,6 @@ I would like to thank microverse community for the support and guidance.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE.md) licensed.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-#
+This project is [MIT](./LICENSE) licensed.
+
