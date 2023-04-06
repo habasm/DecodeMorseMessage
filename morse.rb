@@ -47,6 +47,7 @@ def decode_word(sentence)
   @message.each do |word|
     decode_char(word)
   end
+  print "#{@letters_sentence} "
 end
 
 decode_word('      .-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
