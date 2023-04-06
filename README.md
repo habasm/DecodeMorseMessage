@@ -1,4 +1,28 @@
-# DecodeMorseMessage
+
+<a name="readme-top"></a>
+
+<!--
+HOW TO USE:
+This is an example of how you may give instructions on setting up your project locally.
+
+Modify this file to match your project and remove sections that don't apply.
+
+REQUIRED SECTIONS:
+- Table of Contents
+- About the Project
+  - Built With
+  - Live Demo
+- Getting Started
+- Authors
+- Future Features
+- Contributing
+- Show your support
+- Acknowledgements
+- License
+
+After you're finished please remove all the comments and instructions!
+-->
+
 
 <!-- TABLE OF CONTENTS -->
 
@@ -6,8 +30,8 @@
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -20,86 +44,95 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#faq)
+
+
+
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Project Name
 
-## Morse Code Decoder with Ruby
+# 📖 Decode Morse Message <a name="about-project"></a>
+
+> Morse code is a method used in telecommunication to encode text characters as standardized sequences of two different signal durations, called dots and dashes, or dits and dahs.[3][4] Morse code is named after Samuel Morse, one of the inventors of the telegraph.
+
 
 ## 🛠 Built With <a name="built-with"></a>
 
-- `SQL`
+- Ruby 
+
+### Tech Stack <a name="tech-stack"></a>
+
+> Ruby
+
+<details>
+<summary>Rubby available</summary>
+  <ul>
+    <li><a href="https://rubyinstaller.org/downloads/">PostgreSQL</a></li>
+  </ul>
+</details>
+
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
 
-- A simple code to decode morse code letters, words, and sentences.
+- Run a program using the command line.
+- Use Ruby syntax for basic programming operations.
+- Use Ruby to solve basic coding challenges.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-Live demo is currently unavailable.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
-## 💻 Getting Started
-To clone the repository in local environment try following steps.
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
+
+```sh
+  git clone https://github.com/habasm/DecodeMorseMessage.git
+  cd DecodeMorseMessage
+```
 
 ### Prerequisites
 
-- [x] A code editor like Visual Studio Code with Git and Node.js.
+In order to run this project you need installed Rubby.
 
-You can check if Git is installed by running the following command in the terminal.
-```
-$ git --version
-```
-
-Likewise for Node.js and npm for package installation.
-```
-$ ruby --version && gem --version
-```
 ### Setup
 
-Clone the repository using https://github.com/habasm/DecodeMorseMessage.git
+Clone this repository to your local machine and run sql commands in the terminal of interactive rubby.
+
 ### Install
 
-In the terminal, go to your file directory and run this command.
-
+```sh
+  locate to your downloaded folder folder
 ```
-$ git clone https://github.com/habasm/DecodeMorseMessage.git
-```
-### Get into development
 
-In the terminal, run these commands to get into development.
-```
-$ cd ruby-morse-code
-
-$ bundle init
-
-$ bundle install (install dependencies)
-
-$ ruby morse_code.rb (run the app locally)
-```
 ### Usage
 
-This website is applicable for both mobile and desktop version.
+To run the project, execute the following command:
+
+```
+  - run rubby terminal
+  - open / copy the morse.rb file
+  - press enter to see the results
+  - Also you can use visual studio code for best practice and show the results on the terminals
+
+```
+
+### Run tests
+
+> no test for this project,
 
 ### Deployment
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+> no deployment for this project
 
-<!-- AUTHORS -->
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
@@ -119,15 +152,24 @@ This website is applicable for both mobile and desktop version.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> to be added a database manipulation of a morse message
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-Contributions, issues, and feature requests are welcome! Add suggestions by opening new issues.
 
-Feel free to check the [issues page](https://github.com/PrangonGhose/ruby-morse-code/issues).
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/habasm/DecodeMorseMessage/issues).
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -143,10 +185,12 @@ Give a ⭐️ if you like this project!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
+
 Authors would like to thank:
 - [Microverse](https://www.microverse.org/)
 - Code Reviewers
 - Coding Partners
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -154,4 +198,6 @@ Authors would like to thank:
 
 ## 📝 License <a name="license"></a>
 
+
 This project is [MIT](./LICENSE) licensed.
+
